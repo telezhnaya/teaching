@@ -1,0 +1,4 @@
+Anna 20 1
+Bob 46 0
+Hugo 3 0
+Maria 78 1
